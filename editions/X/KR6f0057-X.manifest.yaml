@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6f0057/X/v1
+canonical_location: https://kanripo.org/bkk/KR6f0057/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 勝鬘經義記
+  identifiers:
+    krp: KR6f0057
+    cbeta: X19n0351
+    cbeta_old_id: X19n0351
+    authorityid: CA0003004
+    json_key: X0351
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X19/X19n0351.xml
+    old_id: X19n0351
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0057_000-X.yaml, hash: 'sha256:c10bf625090dc8721c36847019f8bd49652760496c03e802446b9d4dcc4e4c71'}
+  - {seq: 1, filename: KR6f0057_001-X.yaml, hash: 'sha256:5fc2cc01a824acf8617825842f298daa4d37eb0f3ac5c1fa081b074aeef1072e'}
+  - {seq: 2, filename: KR6f0057_002-X.yaml, hash: 'sha256:638c055fff646416c858c7438e2cd1b2422a977f3536f23f0ae27364324f73f4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0057_000-X.markers.yaml, hash: 'sha256:12d88be3528768166936c837810bd66d81f82de93c1e47ce04292a76c54edd76'}
+  - {seq: 1, role: markers, filename: assets/KR6f0057_001-X.markers.yaml, hash: 'sha256:025484f2677ed22940da889cb0d503613b1a829ca8dc1cd0301287742afb4a99'}
+  - {seq: 2, role: markers, filename: assets/KR6f0057_002-X.markers.yaml, hash: 'sha256:98d10d98aacd3234b5c16888a2331b3ef11073a7d79a6f6ffbff52f09aa1db72'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0057_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 25469
+  label: 勝鬘經義記卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0057_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 19237
+  label: 勝鬘義記卷下　并溫室義記
+  type: juan
+  level: 1
+hash: sha256:804143f27946045d8211ed86fe43c4482bbda7fed6df2fefb1453b7b23026458

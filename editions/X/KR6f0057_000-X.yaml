@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0057/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 勝鬘經義記
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X19/X19n0351.xml
+    old_id: X19n0351
+hash: sha256:c10bf625090dc8721c36847019f8bd49652760496c03e802446b9d4dcc4e4c71
